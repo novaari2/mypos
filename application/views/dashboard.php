@@ -1,5 +1,6 @@
  <section class="content-header">
       <h1>
+			<!-- ini view dashboard -->
         Dashboard
         <small>Control Panel</small>
       </h1>
